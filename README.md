@@ -1,14 +1,15 @@
 # nodeschool-music
 
 ### 🎹 Code examples
-- https://replit.com/@pixelbar/NodeSchool-ToneJS#script.js
-- https://stackblitz.com/edit/js-hyyxnj
+- Keyboard input: https://replit.com/@pixelbar/NodeSchool-ToneJS#script.js
+- Pitch and duration: https://stackblitz.com/edit/js-hyyxnj
+- Barbie Girl sequence: https://stackblitz.com/edit/js-t6hibz
 
 ### 📚 Helpful links
-#### Javascript general
+#### JavaScript general
 - http://jsforcats.com/
 
-#### Javascript timing
+#### JavaScript timing
 - https://abhi9bakshi.medium.com/why-javascript-timer-is-unreliable-and-how-can-you-fix-it-9ff5e6d34ee0
 - https://www.youtube.com/watch?v=8aGhZQkoFbQ
 - https://developer.mozilla.org/en-US/docs/Web/API/setTimeout
