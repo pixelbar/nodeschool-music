@@ -2,7 +2,7 @@
 
 ### 🎹 Code examples
 - https://replit.com/@pixelbar/NodeSchool-ToneJS#script.js
-- https://replit.com/@pixelbar/NodeSchool-ToneJS-pitch-and-duration#script.js
+- https://stackblitz.com/edit/js-hyyxnj
 
 ### 📚 Helpful links
 #### Javascript general
