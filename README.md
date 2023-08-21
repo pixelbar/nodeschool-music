@@ -2,9 +2,8 @@
 [View on meetup.com](https://www.meetup.com/nodeschool-rotterdam/events/295052785/)
 ![Custom Preset](https://github.com/pixelbar/nodeschool-music/assets/238946/02519100-c663-4d75-921f-98a235b62825)
 
-
-
 ### 🎹 Code examples
+- Starter: https://stackblitz.com/edit/js-gtxeel (fork or download)
 - Keyboard input: https://replit.com/@pixelbar/NodeSchool-ToneJS#script.js
 - Pitch and duration: https://stackblitz.com/edit/js-hyyxnj
 - Barbie Girl sequence: https://stackblitz.com/edit/js-t6hibz
